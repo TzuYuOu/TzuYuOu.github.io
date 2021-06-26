@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TzuYu&#39;s Blog</title>
+    <link>https://TzuYuOu.github.io/</link>
+    <description>Recent content on TzuYu&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 25 Jun 2021 10:14:19 +0800</lastBuildDate><atom:link href="https://TzuYuOu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TypeScript 使用說明</title>
+      <link>https://TzuYuOu.github.io/blog/test/</link>
+      <pubDate>Fri, 25 Jun 2021 10:14:19 +0800</pubDate>
+      
+      <guid>https://TzuYuOu.github.io/blog/test/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 </description>
+    </item>
+    
+  </channel>
+</rss>
